@@ -1,4 +1,4 @@
-# TSTL Roomy
+# TSTL Flux
 
 Declarations for [flux](https://github.com/rxi/flux), a fast, lightweight tweening library for Lua.
 
