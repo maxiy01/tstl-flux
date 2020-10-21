@@ -6,7 +6,7 @@ Declarations for [flux](https://github.com/rxi/flux), a fast, lightweight tweeni
 | Command | Description |
 |-|-|
 | `yarn add -D tstl-flux` | Install these declarations |
-| `yarn add rxi/flux` | Install anim8 |
+| `yarn add rxi/flux` | Install flux |
 
 
 Upon installation these declarations can be linked to a _tsconfig.json_ file.
