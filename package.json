@@ -1,0 +1,18 @@
+{
+  "name": "tstl-flux",
+  "version": "0.0.0",
+  "description": "Declarations for flux for use with TypeScriptToLua.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC",
+  "types": "index.d.ts",
+  "devDependencies": {
+    "love-typescript-definitions": "^0.20.1",
+    "lua-types": "^2.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maxiy01/tstl-flux.git"
+  }
+}
